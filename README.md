@@ -30,8 +30,6 @@ ND-PINN/
 ├── LICENSE
 └── .gitignore
 
-text
-
 ---
 
 # Implemented Problems
@@ -103,7 +101,6 @@ The implementations are developed using Python.
 
 Install dependencies using:
 
-```bash
 pip install tensorflow deepxde numpy scipy matplotlib pandas openpyxl
 How to Run
 Pohlhausen Boundary Layer Equation
@@ -115,13 +112,11 @@ python ND_PINN_Slip_Flow.py
 Burgers Equation
 Step 1: Train models
 
-bash
 python ND_PINN_Burgers_Main.py
 This code trains both Standard PINN and ND-PINN models and saves the required data.
 
 Step 2: Generate results
 
-bash
 python ND_PINN_Burgers_Results.py
 This code loads the trained results and generates comparison figures and analysis.
 
