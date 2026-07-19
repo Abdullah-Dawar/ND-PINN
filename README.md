@@ -15,28 +15,27 @@ The repository contains the following implementations:
 ND-PINN/
 │
 * ND_PINN_Burgers_Main.py
-  *  Training of Standard PINN and ND-PINN for Burgers equation
+ * Training of Standard PINN and ND-PINN for Burgers equation
 │
 
-├── ND_PINN_Burgers_Results.py
-│ └── Visualization and comparison of Burgers equation results
+* ND_PINN_Burgers_Results.py
+ * Visualization and comparison of Burgers equation results
+│
+* ND_PINN_Pohlhausen.py
+ * ND-PINN implementation for Pohlhausen boundary layer equation
 │
 
-├── ND_PINN_Pohlhausen.py
-│ └── ND-PINN implementation for Pohlhausen boundary layer equation
+* ND_PINN_Slip_Flow.py
+ * ND-PINN implementation for slip-flow boundary layer problem
 │
 
-├── ND_PINN_Slip_Flow.py
-│ └── ND-PINN implementation for slip-flow boundary layer problem
+* README.md
 │
 
-├── README.md
+* LICENSE
 │
 
-├── LICENSE
-│
-
-└── .gitignore---
+* .gitignore---
 
 # Implemented Problems
 
