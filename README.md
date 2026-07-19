@@ -14,9 +14,8 @@ The repository includes implementations of ND-PINN for benchmark and engineering
 The repository contains the following implementations:
 ND-PINN/
 │
-
-├── ND_PINN_Burgers_Main.py
-│ └── Training of Standard PINN and ND-PINN for Burgers equation
+* ND_PINN_Burgers_Main.py
+  *  Training of Standard PINN and ND-PINN for Burgers equation
 │
 
 ├── ND_PINN_Burgers_Results.py
