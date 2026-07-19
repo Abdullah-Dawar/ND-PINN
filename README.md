@@ -139,3 +139,8 @@ Nonlinear differential equations
 Partial differential equations
 
 Scientific machine learning applications
+
+Citation
+If you use this repository in your research, please cite:
+
+Dawar, Abdullah. ND-PINN: A Normalized Domain Physics-Informed Neural Network for Accurate and Stable Solution of Differential Equations.
